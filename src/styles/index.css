@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bg-lighter{
+    background-color: rgb(28, 27, 27);
+    font-size: 100px;
+    border: 1px solid rgb(46, 43, 43)!important;
+}
